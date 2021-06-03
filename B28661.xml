@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new invention for the sheathing of ships with lead and lacker, without the use of pitch, tar, rozin, brimstone, or any other graving,.</title>
+            <author>Rastel, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28661</idno><idno type="EEBO-CITATION">99886629</idno>
+  <idno type="VID">187557</idno>
+  <idno type="EEBO-PROQUEST">2240882363</idno>
+  
+            <idno type="STC">Wing R285</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[128]</idno>
+            <idno type="STC">ESTC R226296</idno>
+            <idno type="PROQUEST">ocm99886629</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886629e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187557)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[131])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new invention for the sheathing of ships with lead and lacker, without the use of pitch, tar, rozin, brimstone, or any other graving,.</title>
+                  <author>Rastel, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Rastel. Cf. Wing (CD-ROM, 1996).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>At end: "Mr. Thomas Rastel, at the Jerkers office in the Custome-house, or to the said Mr. Rastel or Mr. Francis Dracot, at Mr. Garraway's coffee-house ... ".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheet-lead --  England --  Early works to 1800.</term>
+               <term type="topical_term">Shipbuilding --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert">
+            <pb facs="tcp:187557:1"/>
+            <head>The new Invention FOR THE SHEATHING of SHIPS WITH Lead and Lacker,</head>
+            <head type="sub">Without the use of <hi>Pitch, Tar, Rozin, Brimstone,</hi> or any other Graving,</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ath been Experimented upon several of the King's <hi>Ships,</hi> with such Success and Approbation, that His Majesty, and the Lords of the Admiralty, have given express Order to the Commissioners and Principal Officers of the Navy, That all their Ships for the future shall be Sheathed no other<g ref="char:EOLhyphen"/>wise, but by the way of this <hi>New Invention.</hi> The <hi>Phoenix</hi> was the first, which was done <hi>March</hi> 10. 1670. and after several Voyages was lately ordered into the Dock at <hi>Woolwich,</hi> supposing her <hi>Sheathing</hi> might want some Repair, but upon view of the Master-Builder and others, it was found to be in as good condition as at first doing: Where<g ref="char:EOLhyphen"/>upon she was turned out of the Dock the next day; and the Captain, Master, and other Officers averred, she was so tight during the whole Time, that they were forced to heave in water to keep her sweet. The <hi>Dreadnought,</hi> done in <hi>June,</hi> 1671. the <hi>Henrietta, Lion,</hi> and <hi>Mary,</hi> done in <hi>October,</hi> 1672. which being lately laid on ground at <hi>Sheerness</hi> and <hi>Ports<g ref="char:EOLhyphen"/>mouth</hi> have all their <hi>Sheathings</hi> found to be in as good condition as at first, as the Master-Builder and Assistant at <hi>Portsmouth, &amp;c.</hi> have certified. Others have been also done, no doubt, with as good success; but not being yet viewed, are not here mentioned.</p>
+            <p>The <hi>Bread-Rooms</hi> also of some of these, and many more of His Majefty's <hi>Ships</hi> have been lined within, almost in the same manner the <hi>Sheathing</hi> is without, which has proved of great preservation to the <hi>Bread,</hi> as several of the Pursers and Officers of the said Ships have certifi'd, and must needs, by reason of its duration, be much cheaper and better then <hi>Tynn,</hi> which is so liable to rust.</p>
+            <p>The <hi>Lead</hi> also is made so close pressed, smooth, and equal in all parts, and of what thick<g ref="char:EOLhyphen"/>ness or thinness desired, that great use may be made thereof, in many other things relating to <hi>Shipping,</hi> &amp;c.</p>
+            <p>
+               <hi>All Merchants and others, who desire to have their</hi> Ships <hi>accommodated with this way of</hi> Sheathing, <hi>if they please to repair to the Persons employed by the Parties concerned in the management of this,</hi> viz. <hi>to Mr.</hi> Thomas Rastel, <hi>at the Jerkers Office in the Custome-house, or to the said Mr.</hi> Rastel <hi>or Mr.</hi> Francis Dracot, <hi>at Mr.</hi> Garraway<hi>'s Coffee-house, every</hi> Tuesday <hi>and</hi> Thursday, <hi>from</hi> 11 <hi>to</hi> 12 <hi>a clock, and afterwards in the</hi> West-India <hi>Walk upon the</hi> Exchange; <hi>they may receive satisfaction, that this way of</hi> Sheathing <hi>is as cheap as the other, much more durable, and in many respects more beneficial to the Owners, both in point of Charge, and advantage in Sailing.</hi>
+            </p>
+            <pb facs="tcp:187557:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
